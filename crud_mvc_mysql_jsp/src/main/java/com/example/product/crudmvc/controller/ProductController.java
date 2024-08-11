@@ -12,7 +12,6 @@ import com.example.product.crudmvc.entity.Product;
 import com.example.product.crudmvc.service.ProductServiceImpl;
 import com.example.product.crudmvc.wrapper.ProductListWrapper;
 
-import java.util.List;
 
 
 @RestController
